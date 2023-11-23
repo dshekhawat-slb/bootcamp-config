@@ -5,6 +5,7 @@ on:
     push:
         branches:
             - main
+
         #branches: [none]
         paths:
             - config/transformations/**
